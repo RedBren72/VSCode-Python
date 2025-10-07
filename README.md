@@ -11,3 +11,4 @@ A repository for learning Python.
 1. Create the repository.
 2. Open in VSCode.
 3. Start coding!
+4. Commit!!!
